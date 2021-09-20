@@ -1,0 +1,194 @@
+<changelist name="Default_Changelist" date="1631965443993" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/_bounded_integers.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_bounded_integers.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/_common.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_common.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/_generator.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_generator.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/_mt19937.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_mt19937.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/_multiarray_tests.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_multiarray_tests.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/_multiarray_umath.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_multiarray_umath.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/_operand_flag_tests.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_operand_flag_tests.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/_pcg64.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_pcg64.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/_philox.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_philox.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/fft/_pocketfft_internal.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_pocketfft_internal.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/_rational_tests.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_rational_tests.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/_sfc64.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_sfc64.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/_simd.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_simd.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/_struct_ufunc_tests.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_struct_ufunc_tests.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/linalg/_umath_linalg.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_umath_linalg.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/_umath_tests.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/_umath_tests.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="image/ai_cat.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ai_cat.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="image/arist.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/arist.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/tests/data/astype_copy.pkl" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/astype_copy.pkl" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/bit_generator.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/bit_generator.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/cv2/cv2.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/cv2.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="video/kif.mp4" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/kif.mp4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/linalg/lapack_lite.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/lapack_lite.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/.libs/libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="image/mclaren_p1.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/mclaren_p1.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/mtrand.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/mtrand.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/lib/npymath.lib" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/npymath.lib" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/random/lib/npyrandom.lib" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/npyrandom.lib" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/cv2/opencv_videoio_ffmpeg453_64.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/opencv_videoio_ffmpeg453_64.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/py.typed" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/py.typed" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/lib/tests/data/py2-objarr.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/py2-objarr.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/lib/tests/data/py2-objarr.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/py2-objarr.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/lib/tests/data/py3-objarr.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/py3-objarr.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/lib/tests/data/py3-objarr.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/py3-objarr.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/lib/tests/data/python3.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/python3.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/core/tests/data/recarray_from_file.fits" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/recarray_from_file.fits" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/opencv_python-4.5.3.56.dist-info/REQUESTED" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/REQUESTED" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/numpy/lib/tests/data/win64python2.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/win64python2.npy" />
+  </binary>
+</changelist>
