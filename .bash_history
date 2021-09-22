@@ -37,3 +37,4 @@ git log --summary
 git checkout -b <branch_name> <found_hash>
 git checkout -b <branch_name> <found_hash>
 git checkout -b <branch_name> <found_hash>
+ll
